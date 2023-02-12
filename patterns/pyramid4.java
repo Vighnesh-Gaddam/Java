@@ -1,7 +1,8 @@
 public class pyramid4 {
     public static void main(String args[])
     {
-        int numofrows=4,rows;
+        final int numofrows=4;
+        int rows;
         for(rows = 1;rows<=numofrows;rows++)
         {
             int numofcols,cols;

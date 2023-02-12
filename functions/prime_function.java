@@ -1,4 +1,3 @@
-import java.util.*;
 public class prime_function
 {
     static void prime(int  a)
